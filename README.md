@@ -1,5 +1,5 @@
 # Olá a todos! Sejam bem-vindos ao meu Github!😉
-<div>
+<div width="100%">
   <a href="https://github.com/gabriel1og">
   <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=gabriel1og&show_icons=true&theme=gruvbox"/>
   <img height="180em" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=gabriel1og&theme=gruvbox"/>
