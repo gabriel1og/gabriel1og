@@ -1,4 +1,11 @@
 # Olá a todos! Sejam bem-vindos ao meu Github!😉
+
+<div>
+    <p align="center">
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Trebuchet+MS&weight=800&size=22&pause=700&color=F7CB58FF&background=FFFFFF00&center=true&vCenter=true&width=300&height=55&lines=Front-end+Developer" alt="Typing SVG" /></a>
+    </p>
+</div>
+
 <div align="center" display="inline-block">
   <a href="https://github.com/gabriel1og">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel1og&show_icons=true&theme=gruvbox"/>
@@ -8,12 +15,6 @@
   <a href="https://git.io/streak-stats">
   <img height="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel1og&langs_count=5&theme=gruvbox"/> 
  </div>
- 
-<div>
-    <p align="center">
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Trebuchet+MS&weight=800&size=22&pause=700&color=F7CB58FF&background=FFFFFF00&center=true&vCenter=true&width=300&height=55&lines=Front-end+Developer" alt="Typing SVG" /></a>
-    </p>
-</div>
 
 <div><br>
   <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
