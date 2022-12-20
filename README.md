@@ -1,17 +1,17 @@
 # Olá a todos! Sejam bem-vindos ao meu Github!😉
 <div align="center">
   <a href="https://github.com/gabriel1og">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel1og&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel1og&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel1og&show_icons=true&theme=gruvbox"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gabriel1og&theme=gruvbox"/>
 </div>
  <div align="center">
   <a href="https://git.io/streak-stats">
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=gabriel1og&theme=midnight-purple"/> 
+  <img height="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel1og&langs_count=5&theme=gruvbox"/> 
  </div>
  
 <div>
     <p align="center">
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Trebuchet+MS&weight=800&size=22&pause=700&color=5B2EF7&background=FFFFFF00&center=true&vCenter=true&width=300&height=55&lines=Front-end+Developer" alt="Typing SVG" /></a>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Trebuchet+MS&weight=800&size=22&pause=700&color=F7CB58FF&background=FFFFFF00&center=true&vCenter=true&width=300&height=55&lines=Front-end+Developer" alt="Typing SVG" /></a>
     </p>
 </div>
 
