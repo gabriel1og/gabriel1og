@@ -1,8 +1,8 @@
 # Olá a todos! Sejam bem-vindos ao meu Github!😉
 <div width="100%">
   <a href="https://github.com/gabriel1og">
-  <img height="180em" width="450px" src="https://github-readme-stats.vercel.app/api?username=gabriel1og&show_icons=true&theme=gruvbox"/>
-  <img height="180em" width="450px" src="https://github-readme-streak-stats.herokuapp.com/?user=gabriel1og&theme=gruvbox"/>
+  <img height="180em" width="425px" src="https://github-readme-stats.vercel.app/api?username=gabriel1og&show_icons=true&theme=gruvbox"/>
+  <img height="180em" width="425px" src="https://github-readme-streak-stats.herokuapp.com/?user=gabriel1og&theme=gruvbox"/>
 </div>
  <div align="center">
   <a href="https://git.io/streak-stats">
