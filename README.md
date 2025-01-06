@@ -1,11 +1,5 @@
 # Olá a todos! Sejam bem-vindos ao meu Github!😉
 
-<div>
-    <p align="center">
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Trebuchet+MS&weight=800&size=22&pause=700&color=F7CB58FF&background=FFFFFF00&center=true&vCenter=true&width=300&height=55&lines=Front-end+Developer" alt="Typing SVG" /></a>
-    </p>
-</div>
-
 <div><br>
   <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
