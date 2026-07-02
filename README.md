@@ -1,6 +1,6 @@
 # Olá a todos! Sejam bem-vindos ao meu Github!😉
 
-<div><h3>Sou o Gabriel, formado em Engenharia de Software pela PUC-MG e desenvolvedor Web.</h3></div>
+<div><h3>Sou o Gabriel, graduado em Engenharia de Software e pós-graduado em Arquitetura de Software Distribuído pela PUC-MG e desenvolvedor Web.</h3></div>
 
 # Tecnologias e Ferramentas
 
