@@ -1,7 +1,7 @@
 ## Hi everyone! Welcome to my Github!😉
 
 <div>
-  <p>I'm Gabriel Gomide, Frontend Software Engineer at Seidor, working over React ecosystem.</p> 
+  <p>I'm Gabriel Gomide, Frontend Software Engineer at <a href="https://www.seidor.com/pt-br">Seidor</a>, working over React ecosystem.</p> 
   <p>Also with a bachelor's degree in Software Engineering and postgraduate in Distributed Software Architecture.</p>
 </div>
 
