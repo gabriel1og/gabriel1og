@@ -1,4 +1,4 @@
-## Hy everyone! Welcome to my Github!😉
+## Hi everyone! Welcome to my Github!😉
 
 <div>
   <p>I'm Gabriel Gomide, Frontend Software Engineer at Seidor, working over React ecosystem.</p> 
